@@ -22,9 +22,9 @@ plugins {
 	id 'com.palantir.docker' version '0.22.1'
 }
 
-group = 'siecola'
+group = 'fabricio10152'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '15'
+sourceCompatibility = '11'
 
 bootJar {
 	baseName = 'curso_aws_project01'
